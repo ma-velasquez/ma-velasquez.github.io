@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ma-velasquez.github.io/sitemap.xml
